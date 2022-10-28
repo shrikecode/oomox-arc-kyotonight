@@ -1,0 +1,29 @@
+#+title: Kyoto Night Arc Theme
+
+Arc Theme based GTK theme, using Tokyo Night color palette. Created with Oomox GUI / Themix.
+
+** Why?
+
+GTK themes for Tokyo Night that float around are Oomox-based, which isn't exactly my taste. Although the
+[[icons][https://www.gnome-look.org/p/1681475]] that come with it are wonderful.
+
+** Features
+
+This theme is generated from an old version of [[https://github.com/themix-project/themix-gui][Themix]] and is pretty rudimentary.
+It lacks full Gnome Shell support, but should work great for GTK apps in general.
+
+** Installation
+
+Clone this repo to your themes directory:
+
+#+begin_src sh
+mkdir -p ~/.local/share/themes
+git clone https://github.com/laniusone/oomox-arc-kyotonight.git ~/.local/share/themes/oomox-arc-kyotonight
+#+end_src
+
+I has some issues with themes when using i3, and I had to install them globally. To do that:
+
+#+begin_src sh
+sudo cp -r ~/.local/share/themes/oomox-arc-kyotonight /usr/share/themes/
+#+end_src
+
