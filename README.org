@@ -5,7 +5,7 @@ Arc Theme based GTK theme, using Tokyo Night color palette. Created with Oomox G
 ** Why?
 
 GTK themes for Tokyo Night that float around are Oomox-based, which isn't exactly my taste. Although the
-[[icons][https://www.gnome-look.org/p/1681475]] that come with it are wonderful.
+[[https://www.gnome-look.org/p/1681475][icons]] that come with it are wonderful.
 
 ** Features
 
